@@ -39,7 +39,7 @@ Publish the website in the LocalHost.
             height: 600px;
             margin-left: auto;
             margin-right: auto;
-            background-image: url("C:/Users/acer/Downloads/image 2.jpg"); /* Background cover */
+            background-image: url("C:/Users/acer/Downloads/image 2.jpg");
             background-size: cover;
             background-position: center;
             padding: 20px;
